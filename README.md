@@ -15,7 +15,9 @@ This project applies and compares reinforcement learning algorithms across two e
 - Proximal Policy Optimization (PPO)
 - Soft Actor-Critic (SAC)
 
-File Structure
+## File Structure
+
+```text
 RL Project/
 │
 ├── Blackjack.ipynb                         # Tabular methods for Blackjack
@@ -24,6 +26,7 @@ RL Project/
 ├── sac_lunarlander_actor.pt                # Trained SAC actor model
 ├── sac_lunarlander_critic.pt              # Trained SAC critic model
 ├── ppo_lunarlander_final.pt               # Trained PPO model
+```
 
 
 How to Run
