@@ -33,8 +33,9 @@ jupyter notebook
 ```
 
 Open either:
-Blackjack.ipynb for tabular RL
-Lunar Lander.ipynb for PPO and SAC
+- Blackjack.ipynb for tabular RL
+- Lunar Lander.ipynb for PPO and SAC
+
 Each notebook includes all the training loops, hyperparameters, training logs, and visualizations.
 
 ## Highlights
