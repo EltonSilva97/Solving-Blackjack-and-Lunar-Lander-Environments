@@ -1,20 +1,19 @@
-Reinforcement Learning Project – Blackjack & Lunar Lander
-Author
-Elton Silva
+# Reinforcement Learning Project – Blackjack & Lunar Lander
+**Author:** Elton Silva
 
-Overview
+## Overview
 This project applies and compares reinforcement learning algorithms across two environments using the OpenAI Gym interface:
-Blackjack (discrete environment)
-Lunar Lander (continuous environment)
+- **Blackjack** (discrete environment)
+- **Lunar Lander** (continuous environment)
 
-Implemented algorithms:
-Blackjack
-Double Q-Learning
-Expected SARSA
+## Implemented algorithms
+**Blackjack:**
+- Double Q-Learning
+- Expected SARSA
 
-Lunar Lander
-Proximal Policy Optimization (PPO)
-Soft Actor-Critic (SAC)
+**Lunar Lander:**
+- Proximal Policy Optimization (PPO)
+- Soft Actor-Critic (SAC)
 
 File Structure
 RL Project/
@@ -29,7 +28,7 @@ RL Project/
 
 How to Run
 You can run the notebooks directly using Jupyter:
-bash
+```bash
 jupyter notebook
 
 Open either:
